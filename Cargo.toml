@@ -1,0 +1,11 @@
+[package]
+
+name = "crlf2lf"
+version = "0.0.1"
+authors = ["XadillaX <admin@xcoder.in>"]
+
+[dependencies]
+
+docopt = "0.6.36"
+rustc-serialize = "0.2.12"
+
